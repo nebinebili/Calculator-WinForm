@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\WinFormCalculator\WinFormCalculator\bin\Debug\WinFormCalculator.exe.config
+C:\Users\Admin\source\repos\WinFormCalculator\WinFormCalculator\bin\Debug\WinFormCalculator.exe
+C:\Users\Admin\source\repos\WinFormCalculator\WinFormCalculator\bin\Debug\WinFormCalculator.pdb
+C:\Users\Admin\source\repos\WinFormCalculator\WinFormCalculator\obj\Debug\WinFormCalculator.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WinFormCalculator\WinFormCalculator\obj\Debug\WinFormCalculator.Form1.resources
+C:\Users\Admin\source\repos\WinFormCalculator\WinFormCalculator\obj\Debug\WinFormCalculator.Properties.Resources.resources
+C:\Users\Admin\source\repos\WinFormCalculator\WinFormCalculator\obj\Debug\WinFormCalculator.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WinFormCalculator\WinFormCalculator\obj\Debug\WinFormCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WinFormCalculator\WinFormCalculator\obj\Debug\WinFormCalculator.exe
+C:\Users\Admin\source\repos\WinFormCalculator\WinFormCalculator\obj\Debug\WinFormCalculator.pdb
